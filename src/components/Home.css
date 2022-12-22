@@ -1,0 +1,72 @@
+.home-container{
+    height: 85vh;
+    /* border:0.1px solid black; */
+    /* border-radius: 0 0 0 30% ; */
+    background-image: url('../bg.jpg');
+
+}
+.home-parent{
+    /* margin-top: 20vh; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+
+}
+.profileimg{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0px white;
+    height: 40vh;
+    width: 40vh;
+    border-radius: 50%;
+    margin-top: 30vh;
+}
+.profile-pic{
+    height: 92%;
+    width: 92%;
+    background-image: url('../pfp.jpeg');
+    background-size: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.profile-pic:hover{
+    transform:scale(1.07);
+    transform:1s ease-out;
+}
+.home-content{
+    margin-top: 30vh;
+    text-align: center;
+
+}
+
+
+.btn{
+    width: 9vw;
+    height: 3em;
+    border-radius: 2em;
+    margin-right: 2em;
+}
+.btn2{
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+}
+.btn1{
+    color: white;
+    border-color: white;
+    background-color: blueviolet;
+}
+.curve{
+    height: 15vh;
+    /* width: 100vh; */
+    /* border:1px solid red; */
+    background-image: url('C:\Users\DELL\Desktop\resume\portfolio\src\shape-bg.png');
+    background-size:auto;
+    /* background-position:bottom 0px; */
+}
+
+

@@ -1,0 +1,32 @@
+.about-container{
+    margin: 8vh;
+    height: 100vh;
+    /* border: 2px solid black; */
+    /* text-align: center; */
+}
+.abouthd{
+   margin-left: 50vw;
+}
+.about-parent{
+    display: flex;
+    flex-direction: row;
+    margin:5vh 25vw 10vh 25vw;
+    height: 80vh;
+    width: 50vw;
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px 10px grey;
+    /* filter:drop-shadow(10px 10px grey); */
+    
+}
+.aboutimg{
+    width: 25vw;
+    background-image: url('../aboutimg.jpeg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+.about-content{
+    padding: 5%;
+}
+.btns2{
+    margin-top: 5em;
+}
