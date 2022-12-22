@@ -19,8 +19,7 @@ function Home() {
                 <h1>web Developer</h1>
                 <p>knack of building applications with front and back end operations</p>
                 <div className="btns">
-                    <button className='btn1 btn'>Hire Me</button>
-                    
+                    <button className='btn1 btn'>Hire Me</button>     
                     <button className='btn2 btn'>Get Resume</button>
                     
                 </div>
